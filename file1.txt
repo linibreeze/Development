@@ -1,6 +1,1 @@
-This is my first git file
-
-from local to origin mai
-
-n\
 FROM LOCAL TO MAIN
